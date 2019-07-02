@@ -11,3 +11,6 @@
 - [Text Mining with R (Silge & Robinson)](https://www.tidytextmining.com/)
 - [The `caret` package (Kuhn)](http://topepo.github.io/caret/index.html)
 - [Hands-On Programming with R (Grolemund)](https://rstudio-education.github.io/hopr/)
+- [Mastering Shiny (Cheng)](https://mastering-shiny.org/)
+- [Tidy evaluation (Henry & Wickham)](https://tidyeval.tidyverse.org/)
+- [Learning Statistics with R (Navarro)](https://learningstatisticswithr.com/)
