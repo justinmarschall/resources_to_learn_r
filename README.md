@@ -14,3 +14,8 @@
 - [Mastering Shiny (Cheng)](https://mastering-shiny.org/)
 - [Tidy evaluation (Henry & Wickham)](https://tidyeval.tidyverse.org/)
 - [Learning Statistics with R (Navarro)](https://learningstatisticswithr.com/)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models (Kuhn & Johnson)](http://www.feat.engineering/index.html)
+
+### Non-Open Source
+
+- [Applied Predictive Modeling (Kuhn)](http://appliedpredictivemodeling.com/)
