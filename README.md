@@ -16,7 +16,7 @@
 - [Tidy evaluation (Henry & Wickham)](https://tidyeval.tidyverse.org/)
 - [Learning Statistics with R (Navarro)](https://learningstatisticswithr.com/)
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models (Kuhn & Johnson)](http://www.feat.engineering/index.html)
-- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [Happy Git and GitHub for the useR (Bryan et al.)](https://happygitwithr.com/)
 
 ### Non-Open Source
 
