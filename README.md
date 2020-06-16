@@ -20,3 +20,14 @@
 ### Non-Open Source
 
 - [Applied Predictive Modeling (Kuhn & Johnson)](http://appliedpredictivemodeling.com/)
+
+## Websites
+
+- [Tidyverse](https://www.tidyverse.org/)
+- [Tidy Models](https://www.tidymodels.org/)
+- [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)
+- [Databases Using R](https://db.rstudio.com/)
+- [RMarkdown](https://rmarkdown.rstudio.com/)
+- [RStudio::conf Repo](https://github.com/rstudio/rstudio-conf)
+- [ggplot2 Extensions](https://exts.ggplot2.tidyverse.org/)
+- [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
