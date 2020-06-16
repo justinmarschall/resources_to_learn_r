@@ -10,7 +10,7 @@
 - [blogdown: Creating Websites with R Markdown (Xie, Thomas, & Hill)](https://bookdown.org/yihui/blogdown/)
 - [Interactive web-based data visualization with R, plotly, and shiny (Sievert)](https://plotly-r.com/)
 - [Text Mining with R (Silge & Robinson)](https://www.tidytextmining.com/)
-- [The `caret` package (Kuhn)](http://topepo.github.io/caret/index.html)
+- [The caret package (Kuhn)](http://topepo.github.io/caret/index.html)
 - [Hands-On Programming with R (Grolemund)](https://rstudio-education.github.io/hopr/)
 - [Mastering Shiny (Cheng)](https://mastering-shiny.org/)
 - [Tidy evaluation (Henry & Wickham)](https://tidyeval.tidyverse.org/)
