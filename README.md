@@ -19,4 +19,4 @@
 
 ### Non-Open Source
 
-- [Applied Predictive Modeling (Kuhn)](http://appliedpredictivemodeling.com/)
+- [Applied Predictive Modeling (Kuhn & Johnson)](http://appliedpredictivemodeling.com/)
